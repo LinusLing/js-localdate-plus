@@ -194,7 +194,7 @@ describe('Add', function () {
     var l = new LocalDate(2000, 1, 31);
     var c = l.addMonthsWithGap(1);
 
-    assert.equal(c.getYear(), 2001);
+    assert.equal(c.getYear(), 2000);
     assert.equal(c.getMonth(), 3);
     assert.equal(c.getDay(), 2);
 
