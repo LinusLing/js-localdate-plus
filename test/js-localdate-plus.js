@@ -1,4 +1,4 @@
-var LocalDate = require('../localdate.js');
+var LocalDate = require('../js-localdate-plus.js');
 var assert = require('assert');
 
 describe('Valid', function () {
