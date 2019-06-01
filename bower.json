@@ -1,7 +1,7 @@
 {
     "name": "js-localdate-plus"
   , "main": "js-localdate-plus.js"
-  , "version": "1.0.0"
+  , "version": "1.0.1"
   , "homepage": "https://github.com/LinusLing/js-localdate-plus"
   , "authors": [
         "Linus Ling <linusling419@gmail.com>"

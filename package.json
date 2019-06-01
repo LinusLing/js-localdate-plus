@@ -1,6 +1,6 @@
 {
       "name": "js-localdate-plus",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "JS library inspired by localdate.Fix bugs and add new temporal feature.",
       "main": "js-localdate-plus.js",
       "scripts": {
