@@ -1,0 +1,24 @@
+{
+      "name": "js-localdate-plus",
+      "version": "1.0.0",
+      "description": "JS library inspired by localdate.Fix bugs and add new temporal feature.",
+      "main": "js-localdate-plus.js",
+      "scripts": {
+            "test": "mocha test/js-localdate-plus.js"
+      },
+      "repository": {
+            "type": "git",
+            "url": "git://github.com/LinusLing/js-localdate-plus.git"
+      },
+      "keywords": [
+            "date",
+            "localdate",
+            "immutable",
+            "ISO-8601"
+      ],
+      "devDependencies": {
+            "mocha": "latest"
+      },
+      "author": "Linus Ling",
+      "license": "MIT"
+}

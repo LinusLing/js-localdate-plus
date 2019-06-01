@@ -1,0 +1,27 @@
+{
+    "name": "js-localdate-plus"
+  , "main": "js-localdate-plus.js"
+  , "version": "1.0.0"
+  , "homepage": "https://github.com/LinusLing/js-localdate-plus"
+  , "authors": [
+        "Linus Ling <linusling419@gmail.com>"
+    ]
+  , "description": "JS library inspired by localdate.Fix bugs and add new temporal feature."
+  , "moduleType": [
+        "globals"
+      , "node"
+    ]
+  , "keywords": [
+        "date"
+      , "localdate"
+      , "immutable"
+    ]
+  , "license": "MIT"
+  , "ignore": [
+        "**/.*"
+      , "node_modules"
+      , "bower_components"
+      , "test"
+      , "tests"
+    ]
+}
