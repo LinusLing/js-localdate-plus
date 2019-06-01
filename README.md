@@ -1,5 +1,5 @@
 # JS-LocalDate-Plus
-js-localdate-plus is a JS library inspired by [LocalDate](https://github.com/knockout-tech/localdate). Fix bugs and add some new temporal features.
+js-localdate-plus is a JS library inspired by [LocalDate](https://github.com/knockout-tech/localdate). Fix bugs and add some new temporal features. 
 
 ## Installation
 
